@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Desktop\C#\2_DONEM\KayitOl_VeriTaban_Tekrari\KayitOl_VeriTaban_Tekrari\bin\Debug\KayitOl_VeriTaban_Tekrari.exe.config
+C:\Users\LENOVO\Desktop\C#\2_DONEM\KayitOl_VeriTaban_Tekrari\KayitOl_VeriTaban_Tekrari\bin\Debug\KayitOl_VeriTaban_Tekrari.exe
+C:\Users\LENOVO\Desktop\C#\2_DONEM\KayitOl_VeriTaban_Tekrari\KayitOl_VeriTaban_Tekrari\bin\Debug\KayitOl_VeriTaban_Tekrari.pdb
+C:\Users\LENOVO\Desktop\C#\2_DONEM\KayitOl_VeriTaban_Tekrari\KayitOl_VeriTaban_Tekrari\obj\Debug\KayitOl_VeriTaban_Tekrari.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\C#\2_DONEM\KayitOl_VeriTaban_Tekrari\KayitOl_VeriTaban_Tekrari\obj\Debug\KayitOl_VeriTaban_Tekrari.Form1.resources
+C:\Users\LENOVO\Desktop\C#\2_DONEM\KayitOl_VeriTaban_Tekrari\KayitOl_VeriTaban_Tekrari\obj\Debug\KayitOl_VeriTaban_Tekrari.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\C#\2_DONEM\KayitOl_VeriTaban_Tekrari\KayitOl_VeriTaban_Tekrari\obj\Debug\KayitOl_VeriTaban_Tekrari.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\C#\2_DONEM\KayitOl_VeriTaban_Tekrari\KayitOl_VeriTaban_Tekrari\obj\Debug\KayitOl_VeriTaban_Tekrari.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C#\2_DONEM\KayitOl_VeriTaban_Tekrari\KayitOl_VeriTaban_Tekrari\obj\Debug\KayitOl_VeriTaban_Tekrari.exe
+C:\Users\LENOVO\Desktop\C#\2_DONEM\KayitOl_VeriTaban_Tekrari\KayitOl_VeriTaban_Tekrari\obj\Debug\KayitOl_VeriTaban_Tekrari.pdb
